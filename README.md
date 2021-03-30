@@ -1,7 +1,26 @@
 # tweeter_web
 
-A new Flutter project.
+## Descrição do Projeto
+<p align="center">Projeto feito com o objetivo de treinar o desenvolvimento de um SPA no flutter web</p>
 
+
+<p align="center">
+  <kbd>
+    <img style="border-radius: 5px" src="https://i.imgur.com/JQTmP8s.png">
+  </kbd>
+  <kbd>
+    <img  style="margin-bottom border-radius: 5px"  src="https://i.imgur.com/xNUtbRv.png">
+  </kbd>
+  <p></p>
+  
+  
+  [video demonstração](https://i.imgur.com/79mMkpX.gifv)
+</p>
+
+<p>
+  referencia: https://www.figma.com/file/xxf4TG14lpF3vFUbBtEZUR/Tweeter
+  </p>
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
