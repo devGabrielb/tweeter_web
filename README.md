@@ -1,6 +1,5 @@
 # tweeter_web
 
-## Descrição do Projeto
 <p align="center">Projeto feito com o objetivo de treinar o desenvolvimento de um SPA no flutter web</p>
 
 
