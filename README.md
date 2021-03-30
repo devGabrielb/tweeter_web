@@ -7,10 +7,11 @@
   <kbd>
     <img style="border-radius: 5px" src="https://i.imgur.com/JQTmP8s.png">
   </kbd>
+  <p></p>
   <kbd>
     <img  style="margin-bottom border-radius: 5px"  src="https://i.imgur.com/xNUtbRv.png">
   </kbd>
-  <p></p>
+  
   
   
   [video demonstração](https://i.imgur.com/79mMkpX.gifv)
