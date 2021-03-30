@@ -17,9 +17,9 @@
   [video demonstração](https://i.imgur.com/79mMkpX.gifv)
 </p>
 
-<p>
-  referencia: https://www.figma.com/file/xxf4TG14lpF3vFUbBtEZUR/Tweeter
-  </p>
+
+  referencia: [figma](https://www.figma.com/file/xxf4TG14lpF3vFUbBtEZUR/Tweeter)
+ 
   
 ## Getting Started
 
